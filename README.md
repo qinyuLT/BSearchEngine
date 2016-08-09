@@ -35,3 +35,4 @@ https://www.googleapis.com/customsearch/v1element?key=AIzaSyCVAXiUzRYsML1Pv6RwSG
 
 ##推荐一个搜索云盘资源的网站
 - [网盘搜](http://www.wangpansou.cn/)
+- [上面网站会出现很多广告，用这个软件，让你的页面变得干净](http://ad-muncher.en.softonic.com/)
