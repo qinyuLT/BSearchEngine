@@ -30,4 +30,5 @@ https://www.googleapis.com/customsearch/v1element?key=AIzaSyCVAXiUzRYsML1Pv6RwSG
 - &q="需要搜索的关键字"
 
 修改&q=后面的内容，将此URL粘贴到浏览器中，可以得到服务器返回的搜索结果Json</br>
-我们需要做的就是解析这个json文件，提取其中有用的信息
+当然返回的json很难看，推荐一个[json在线解析工具](http://json.cn/ "悬停显示")</br>
+我们需要做的就是解析这个json文件，提取其中有用的信息</br>
