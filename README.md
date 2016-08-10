@@ -28,7 +28,7 @@ https://www.googleapis.com/customsearch/v1element?key=AIzaSyCVAXiUzRYsML1Pv6RwSG
 ####两次获取的url
 ![](https://raw.githubusercontent.com/qinyuLT/Images/master/url.png)  </br>
 其中标签很多
-- 1.&start=00   //00表示从搜索结果的第一个显示，result.jsp每页显示10条记录
+- 1.&start=10   //10表示从搜索结果是第二页的内容，result.jsp每页显示10条记录
 - 2.&q=java     //java表示搜索的关键字
 - 3.&sort=date  //data表示搜索结果按照日期排序
 
